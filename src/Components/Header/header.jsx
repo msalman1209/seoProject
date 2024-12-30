@@ -9,7 +9,7 @@ export default function HeroSection() {
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        color: '#0A0A0A',
+        color: '#fff',
         textAlign: 'center',
         px: 2,
       }}
