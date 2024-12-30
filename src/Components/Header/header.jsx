@@ -4,15 +4,12 @@ export default function HeroSection() {
   return (
     <Box
       sx={{
-        backgroundImage: 'url(https://source.unsplash.com/random/1600x900?business)',
-        backgroundSize: 'cover',
-        backgroundPosition: 'center',
         height: '80vh',
         display: 'flex',
         flexDirection: 'column',
         justifyContent: 'center',
         alignItems: 'center',
-        color: '#fff',
+        color: '#0A0A0A',
         textAlign: 'center',
         px: 2,
       }}
