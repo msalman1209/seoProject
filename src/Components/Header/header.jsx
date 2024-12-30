@@ -11,6 +11,7 @@ export default function HeroSection() {
         alignItems: 'center',
         color: '#fff',
         textAlign: 'center',
+        backgroundColor:"#0A0A0A",
         px: 2,
       }}
     >
